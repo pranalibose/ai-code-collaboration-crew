@@ -62,3 +62,6 @@ python main.py --feature "Create a function to validate email addresses"
 * Code execution validation
 * UI dashboard
 
+## Resources
+PPT: https://docs.google.com/presentation/d/1NILCnyPysx9G7cym_PcV-LD4fLO-ovKFfO-SfJe3mXU/edit?usp=sharing
+App Link: https://crewai-coding-agent.streamlit.app/
